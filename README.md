@@ -19,4 +19,4 @@ O projeto é um jogo que na execução, o campo é o universo, onde a nave vai p
 ## Linguagem de programação: python
 ## Biblioteca utilizada: PYGAME
 
-Nota: Para a execução do jogo, verifica se o python está instalado na máquina, a versão da linguagem e notifica-se a biblioteca pygame está tudo certo para queo jogo seja executado.
+Nota: Para a execução do jogo, verifica se o python está instalado na máquina, a versão da linguagem e notifica-se a biblioteca pygame está tudo certo para que o jogo seja executado.
