@@ -21,3 +21,5 @@ O projeto é um jogo que na execução, o campo é o universo, onde a nave vai p
 
 Nota: Para a execução do jogo, verifica se o python está instalado na máquina, a versão da linguagem e notifica-se a biblioteca pygame está tudo certo para que o jogo seja executado.
 
+<img src="./img_git/img.png">
+
